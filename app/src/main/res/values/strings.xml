@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">InterviewGo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title1"><![CDATA[ <h1> What are the usages of SQL?</h1>
+    <P> oTo execute queries against a database
+        <br></br>
+  o	To retrieve data from a database
+ <br></br>
+ o	To inserts records in a database
+ <br></br>
+  o	To updates records in a database
+ <br></br>
+  o	To delete records from a database
+ <br></br>
+  o	To create new databases
+ <br></br>
+  o	To create new tables in a database
+ <br></br>
+  o	To create views in a database
+
+    </P>]]></string>
+    <string name="title2"><![CDATA[<p> A table is a set of organized data. It has columns and rows.</p><br/><br/><p> Columns can be categorized as vertical, and Rows are horizontal.</p><br/><br/>
+<p>A table contains specified number of column called fields but can have any number of rows which is known as record.
+</p>]]></string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_interview">Interview</string>
+
+    <string-array name="sqlans">
+        <item>SQL stands for structured query language.
+            It is a database language used for database creation, deletion, fetching rows and modifying rows etc. sometimes it is pronounced as se-qwell.</item>
+        <item>SQL stands for structured query language. It is a database language used for database creation, deletion, fetching rows and modifying rows etc. sometimes it is pronounced as se-qwell.</item>
+        <item>SQL stands for structured query language. It is a database language used for database creation, deletion, fetching rows and modifying rows etc. sometimes it is pronounced as se-qwell.</item>
+        <item>QSQL stands for structured query language. It is a database language used for database creation, deletion, fetching rows and modifying rows etc. sometimes it is pronounced as se-qwell.</item>
+        <item>QSQL stands for structured query language. It is a database language used for database creation, deletion, fetching rows and modifying rows etc. sometimes it is pronounced as se-qwell.</item>
+        <item>QSQL stands for structured query language. It is a database language used for database creation, deletion, fetching rows and modifying rows etc. sometimes it is pronounced as se-qwell.</item>
+
+    </string-array>
+
+
+    <string-array name="sqlahgns">
+        <item></item>
+        <item>Qnew2</item>
+        <item>Q3</item>
+        <item>Qchsg4</item>
+    </string-array>
+</resources>
